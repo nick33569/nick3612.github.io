@@ -10,6 +10,7 @@ body
 {
     background: #000 url("./20.jpg");
     background-attachment: fixed;
+    background-repeat:no-repeat;
     background-blend-mode: hard-light;
 }
 
@@ -20,6 +21,7 @@ body
     right: 100px;
     bottom: 80px;
     background: url("./20.jpg");
+    background-repeat:no-repeat;
     background-attachment: fixed;
     display: flex;
     justify-content: center;
